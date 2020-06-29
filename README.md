@@ -2,8 +2,6 @@
 
 한국어 데이터 (nsmc) 작업물들 입니다.
 
-- data :  산출물 저장 폴더
-- data_and_txt_csv_conv : csv <-> txt 변환 파일 + 산출물
 - HanBert-nsmc : HanBert
 - KoBERT-nsmc : KoBERT
 - KoELECTRA : KoELECTRA
